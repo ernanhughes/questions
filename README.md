@@ -2,7 +2,7 @@
 
 This is the repo for the blog post here 
 
-![43 Machine Learning Questions and Answers with Python examples](http://programmer.ie/blog/questions/) 
+## ![43 Machine Learning Questions and Answers with Python examples](http://programmer.ie/post/questions/) 
 
 [1. What is overfitting, and how can you prevent it in machine learning?](http://programmer.ie/post/questions/#1-what-is-overfitting-and-how-can-you-prevent-it-in-machine-learning)  
 [2. What is the difference between supervised and unsupervised learning?](http://programmer.ie/post/questions/#2-what-is-the-difference-between-supervised-and-unsupervised-learning)  
